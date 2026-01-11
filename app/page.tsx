@@ -6,7 +6,7 @@ const page = () => {
   return (
     <section className="text-white">
       <h1 className="text-center">
-        the hub for every dev event you can't miss
+        The Hub for every Dev Event you can't miss
       </h1>
       <p className="text-center mt-5 text-white">Hackathons, Consferences and Meetups, All in one place</p>
       <ExploreBtn />
